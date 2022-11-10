@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.profile-img {
+  height: 23vh;
+  width: 23vh;
+}
+.heading-name {
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #12022f;
+}
+.field-name {
+  font-family: 'Roboto';
+  color: #616e7c;
+}

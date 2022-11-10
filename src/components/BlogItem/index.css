@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.list-item-container {
+  width: 100%;
+  border-bottom: 1px solid #e7e5ea;
+  list-style-type: none;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #12022f;
+}
+.description {
+  font-family: 'Roboto';
+  color: #616e7c;
+  font-size: 17px;
+}
+.publishedDate {
+  font-family: 'Roboto';
+  color: #9aa5b1;
+  font-size: 17px;
+}
